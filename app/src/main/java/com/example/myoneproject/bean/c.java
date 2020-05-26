@@ -7,4 +7,5 @@ package com.example.myoneproject.bean;
  */
 public class c {
 
+
 }
