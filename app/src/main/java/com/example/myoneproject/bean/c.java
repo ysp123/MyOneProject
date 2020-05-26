@@ -6,6 +6,6 @@ package com.example.myoneproject.bean;
  * Describe:
  */
 public class c {
-
+//
 
 }
